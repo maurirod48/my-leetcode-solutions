@@ -71,20 +71,20 @@ Every solution file follows this structure so I can review them quickly:
 
 ```js
 /**
- * Problem: [Problem Name] (LC #Number)
- * Link: https://leetcode.com/problems/problem-name/
- * Difficulty: Easy | Medium | Hard
- * Pattern: e.g. Hash Map, Sliding Window, Two Pointers
+ * ## Problem: [Problem Name] (LC #Number)
+ * ## Link: https://leetcode.com/problems/problem-name/
+ * ## Difficulty: Easy | Medium | Hard
+ * ## Pattern: e.g. Hash Map, Sliding Window, Two Pointers
  *
- * Approach:
+ * ## Approach:
  *   Explain your thinking in plain English here.
  *   What did you notice? What was your first instinct?
  *   What made you choose this approach?
  *
- * Time Complexity:  O(?)
- * Space Complexity: O(?)
+ * ## Time Complexity:  O(?)
+ * ## Space Complexity: O(?)
  *
- * Mistakes / Things I learned:
+ * ## Mistakes / Things I learned:
  *   What tripped you up? What would you do differently?
  */
 
