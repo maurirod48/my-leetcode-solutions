@@ -10,7 +10,7 @@ The goal isn't just to solve problems — it's to deeply understand the patterns
 
 | Topic              | Solved | Easy | Medium | Hard |
 |--------------------|--------|------|--------|------|
-| Arrays             | 0      | 0    | 0      | 0    |
+| Arrays             | 1      | 1    | 0      | 0    |
 | Strings            | 0      | 0    | 0      | 0    |
 | Hash Maps          | 0      | 0    | 0      | 0    |
 | Linked Lists       | 0      | 0    | 0      | 0    |
