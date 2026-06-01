@@ -13,7 +13,7 @@ The goal isn't just to solve problems — it's to deeply understand the patterns
 | Arrays             | 1      | 1    | 0      | 0    |
 | Strings            | 0      | 0    | 0      | 0    |
 | Hash Maps          | 0      | 0    | 0      | 0    |
-| Linked Lists       | 0      | 0    | 0      | 0    |
+| Linked Lists       | 1      | 0    | 1      | 0    |
 | Trees              | 0      | 0    | 0      | 0    |
 | Binary Search      | 0      | 0    | 0      | 0    |
 | Sliding Window     | 0      | 0    | 0      | 0    |
@@ -21,7 +21,7 @@ The goal isn't just to solve problems — it's to deeply understand the patterns
 | Stack / Queue      | 0      | 0    | 0      | 0    |
 | Dynamic Programming| 0      | 0    | 0      | 0    |
 | Graphs             | 0      | 0    | 0      | 0    |
-| **Total**          | **0**  | **0**| **0**  | **0**|
+| **Total**          | **2**  | **1**| **1**  | **0**|
 
 > Update this table manually as you solve problems. Keeping it honest matters.
 
@@ -89,7 +89,7 @@ Every solution file follows this structure so I can review them quickly:
  */
 
 function solutionName(params) {
-  // your solution
+  // solution
 }
 ```
 
